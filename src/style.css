@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  ::-webkit-scrollbar {
+    width: 4px; /* Lebar scrollbar */
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent; /* Warna latar belakang track scrollbar */
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.5); /* Warna thumb scrollbar */
+    border-radius: 4px; /* Membuat sudut thumb menjadi bundar */
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.7); /* Warna thumb saat hover */
+  }
+
+  /* Custom Scrollbar Styles for Firefox */
+  * {
+    scrollbar-width: thin; /* Lebar scrollbar tipis */
+    scrollbar-color: rgba(255, 255, 255, 0.5) transparent; /* Warna thumb dan track scrollbar */
+  }
+}

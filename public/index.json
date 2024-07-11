@@ -11,8 +11,13 @@
     "type": "movie",
     "group": "Other",
     "class": "",
-    "path": "/dll/Avatar - The Way of Water.mkv",
-    "subtitle": "/dll/Avatar_-The-Way-of-Water_2022_Indonesian-ELSUBTITLE.COM-ST_70006923.vtt"
+    "path": "/dll/Avatar - The Way of Water/Avatar - The Way of Water.mkv",
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/dll/Avatar - The Way of Water/Avatar_-The-Way-of-Water_2022_Indonesian-ELSUBTITLE.COM-ST_70006923.vtt"
+      }
+    ]
   },
   {
     "title": "Knights of the Zodiac",
@@ -53,7 +58,7 @@
     "order": 0,
     "type": "movie",
     "group": "Other",
-    "class": "",
+    "class": "Anime",
     "path": "/dll/D21.FUN-Suzume (2022)-1080p.mp4"
   },
   {
@@ -68,7 +73,25 @@
     "type": "movie",
     "group": "Other",
     "class": "",
-    "path": "/dll/Free Guy (2021).mkv"
+    "path": "/dll/Free Guy/Free Guy (2021).mkv",
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/dll/Free Guy/Free.Guy.2021.HDCAM.SUNSCREEN.C1NEM4.720p.480p.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "tv",
+        "path": "/dll/Free Guy/[TV] Free.Guy.2021.HDCAM.SUNSCREEN.C1NEM4.720p.480p.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "kuning",
+        "path": "/dll/Free Guy/[KUNING] Free.Guy.2021.HDCAM.SUNSCREEN.C1NEM4.720p.480p.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "hijau",
+        "path": "/dll/Free Guy/[IJO] Free.Guy.2021.HDCAM.SUNSCREEN.C1NEM4.720p.480p.WWW.IDFL.INFO.vtt"
+      }
+    ]
   },
   {
     "title": "Interstelar",
@@ -82,7 +105,13 @@
     "type": "movie",
     "group": "Other",
     "class": "",
-    "path": "/dll/Interstelar (2014).mkv"
+    "path": "/dll/Interstelar/Interstelar (2014).mkv",
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/dll/Interstelar/INTERSTELLAR 2014-indocp.vtt"
+      }
+    ]
   },
   {
     "title": "Journey to the Center of the Earth",
@@ -124,7 +153,25 @@
     "type": "movie",
     "group": "Other",
     "class": "",
-    "path": "/dll/Moon Fall (2022).mkv"
+    "path": "/dll/Moonfall/Moon Fall (2022).mkv",
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/dll/Moonfall/Moonfall.2022.WEB-DL.WEBRip.HDRip.1080p.720p.480p.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "tv",
+        "path": "/dll/Moonfall/[TV] Moonfall.2022.WEB-DL.WEBRip.HDRip.1080p.720p.480p.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "kuning",
+        "path": "/dll/Moonfall/[KUNING] Moonfall.2022.WEB-DL.WEBRip.HDRip.1080p.720p.480p.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "hijau",
+        "path": "/dll/Moonfall/[IJO] Moonfall.2022.WEB-DL.WEBRip.HDRip.1080p.720p.480p.WWW.IDFL.INFO.vtt"
+      }
+    ]
   },
   {
     "title": "Shazam! Fury of the Gods",
@@ -166,7 +213,25 @@
     "type": "movie",
     "group": "Other",
     "class": "",
-    "path": "/dll/Tenet (2020).mkv"
+    "path": "/dll/Tenet/Tenet (2020).mkv",
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/dll/Tenet/Tenet.2020.XviD.Without.AdsWatermarks.LLG.HC.HDCam.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "default",
+        "path": "/dll/Tenet/[TV] Tenet.2020.XviD.Without.AdsWatermarks.LLG.HC.HDCam.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "default",
+        "path": "/dll/Tenet/[KUNING] Tenet.2020.XviD.Without.AdsWatermarks.LLG.HC.HDCam.WWW.IDFL.INFO.vtt"
+      },
+      {
+        "label": "default",
+        "path": "/dll/Tenet/[IJO] Tenet.2020.XviD.Without.AdsWatermarks.LLG.HC.HDCam.WWW.IDFL.INFO.vtt"
+      }
+    ]
   },
   {
     "title": "The Matrix Resurrections",
@@ -208,7 +273,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Sorcerer's Stone (2001).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Sorcerer's Stone (2001).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
@@ -222,7 +288,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Chamber of Secrets (2002).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Chamber of Secrets (2002).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Harry Potter and the Prisoner of Azkaban",
@@ -236,7 +303,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Prisoner of Azkaban (2004).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Prisoner of Azkaban (2004).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Harry Potter and the Goblet of Fire",
@@ -250,7 +318,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Goblet of Fire (2005).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Goblet of Fire (2005).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Harry Potter and the Order of the Phoenix",
@@ -264,7 +333,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Order of the Phoenix (2007).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Order of the Phoenix (2007).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Harry Potter and the Half-Blood Prince",
@@ -278,7 +348,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Half-Blood Prince (2009).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Half-Blood Prince (2009).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Harry Potter and the Deathly Hallows: Part 1",
@@ -292,7 +363,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Deathly Hallows Part 1 (2010).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Deathly Hallows Part 1 (2010).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Harry Potter and the Deathly Hallows: Part 2",
@@ -306,7 +378,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Harry Potter",
-    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Deathly Hallows Part 2 (2011).mkv"
+    "path": "/Harry Potter Universe/Harry Potter/Harry Potter and the Deathly Hallows Part 2 (2011).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Fanstic Basts and Where to Find Them",
@@ -320,7 +393,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Fantastic Basts",
-    "path": "/Harry Potter Universe/Fantastic Basts/Fanstic Basts and Where to Find Them (2016).mkv"
+    "path": "/Harry Potter Universe/Fantastic Basts/Fanstic Basts and Where to Find Them (2016).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Fanstic Basts: The Crimes of Grindelwald",
@@ -334,7 +408,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Fantastic Basts",
-    "path": "/Harry Potter Universe/Fantastic Basts/Fanstic Basts - The Crimes of Grindelwald (2018).mkv"
+    "path": "/Harry Potter Universe/Fantastic Basts/Fanstic Basts - The Crimes of Grindelwald (2018).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Fantastic Bests: The Secrets of Dumbledore",
@@ -348,7 +423,8 @@
     "type": "movie",
     "group": "Harry Potter Universe",
     "class": "Fantastic Basts",
-    "path": "/Harry Potter Universe/Fantastic Basts/Fantastic Bests - The Secrets of Dumbledore (2022).mkv"
+    "path": "/Harry Potter Universe/Fantastic Basts/Fantastic Bests - The Secrets of Dumbledore (2022).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Johnny English",
@@ -488,7 +564,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/1. X-Men First Class (2011)/X-men first class.mkv"
+    "path": "/X-men/1. X-Men First Class (2011)/X-men first class.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "X-Men Origins: Wolverine",
@@ -502,7 +579,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/2. X-Men Origins Wolverine (2019)/X-Men Origins Wolverine.mkv"
+    "path": "/X-men/2. X-Men Origins Wolverine (2019)/X-Men Origins Wolverine.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "X-Men",
@@ -516,7 +594,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/3. X-Men (2000)/X-Men.mkv"
+    "path": "/X-men/3. X-Men (2000)/X-Men.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "X2: X-Men United",
@@ -530,7 +609,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/4. X2 X-Men United (2003)/X2 X-Men United.mkv"
+    "path": "/X-men/4. X2 X-Men United (2003)/X2 X-Men United.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "X-Men: The Last Stand",
@@ -544,7 +624,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/5. X-Men the Last Stand (2006)/X-Men the Last Stand.mkv"
+    "path": "/X-men/5. X-Men the Last Stand (2006)/X-Men the Last Stand.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "The Wolverine",
@@ -558,7 +639,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/6. The Wolverine (2013)/The Wolverine.mkv"
+    "path": "/X-men/6. The Wolverine (2013)/The Wolverine.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "X-Man: Day of Future Past",
@@ -572,7 +654,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/7. X-Man Day of Future Past (2014)/X-Man Day of Future Past.mkv"
+    "path": "/X-men/7. X-Man Day of Future Past (2014)/X-Man Day of Future Past.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "X-Men: Apocalypse",
@@ -586,7 +669,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/7a. X-Men Apocalypse (2016)/X-Men Apocalypse.mkv"
+    "path": "/X-men/7a. X-Men Apocalypse (2016)/X-Men Apocalypse.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "X-Men: the Dark Phoenix",
@@ -600,7 +684,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/7b. X-Men the Dark Pheonix (2019)/X-Men the Dark Pheonix.mkv"
+    "path": "/X-men/7b. X-Men the Dark Pheonix (2019)/X-Men the Dark Pheonix.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Logan",
@@ -614,7 +699,8 @@
     "type": "movie",
     "group": "X-men",
     "class": "",
-    "path": "/X-men/8. Logan (2017)/Logan.mkv"
+    "path": "/X-men/8. Logan (2017)/Logan.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -698,7 +784,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "Spider-Man",
-    "path": "/Sony Spider-Man Universe/Spider-Man/Spider-Man (2002).mkv"
+    "path": "/Sony Spider-Man Universe/Spider-Man/Spider-Man (2002).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Spider-Man 2",
@@ -712,7 +799,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "Spider-Man",
-    "path": "/Sony Spider-Man Universe/Spider-Man/Spider-Man 2 (2004).mkv"
+    "path": "/Sony Spider-Man Universe/Spider-Man/Spider-Man 2 (2004).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Spider-Man 3",
@@ -726,7 +814,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "Spider-Man",
-    "path": "/Sony Spider-Man Universe/Spider-Man/Spider-Man 3 (2003).mkv"
+    "path": "/Sony Spider-Man Universe/Spider-Man/Spider-Man 3 (2003).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "The Amazing Spider-Man",
@@ -740,7 +829,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "The Amazing Spider-Man",
-    "path": "/Sony Spider-Man Universe/The Amazing Spider-Man/The Amazing Spider-Man (2012).mkv"
+    "path": "/Sony Spider-Man Universe/The Amazing Spider-Man/The Amazing Spider-Man (2012).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "The Amazing Spider-Man 2",
@@ -754,7 +844,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "The Amazing Spider-Man",
-    "path": "/Sony Spider-Man Universe/The Amazing Spider-Man/The Amazing Spider-Man 2 (2014).mkv"
+    "path": "/Sony Spider-Man Universe/The Amazing Spider-Man/The Amazing Spider-Man 2 (2014).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
@@ -769,7 +860,12 @@
     "group": "Sony Spider-Man Universe",
     "class": "Spider-Man Miles Morales",
     "path": "/Sony Spider-Man Universe/Spider-Man - Into the Spider-Verse (2018)/Spider-Man - Into the Spider-Verse.mkv",
-    "subtitle": "/Sony Spider-Man Universe/Spider-Man - Into the Spider-Verse (2018)/Spider-Man - Into the Spider-Verse.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Sony Spider-Man Universe/Spider-Man - Into the Spider-Verse (2018)/Spider-Man - Into the Spider-Verse.vtt"
+      }
+    ]
   },
   {
     "title": "Venom",
@@ -783,7 +879,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "Venom",
-    "path": "/Sony Spider-Man Universe/Venom/Venom (2018).mkv"
+    "path": "/Sony Spider-Man Universe/Venom/Venom (2018).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Venom: Let There Be Carnage",
@@ -797,7 +894,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "Venom",
-    "path": "/Sony Spider-Man Universe/Venom/Venom - Let There be Carnage (2021).mkv"
+    "path": "/Sony Spider-Man Universe/Venom/Venom - Let There be Carnage (2021).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Morbius",
@@ -811,7 +909,8 @@
     "type": "movie",
     "group": "Sony Spider-Man Universe",
     "class": "Morbius",
-    "path": "/Sony Spider-Man Universe/Morbius (2022).mkv"
+    "path": "/Sony Spider-Man Universe/Morbius (2022).mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Iron Man",
@@ -826,7 +925,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 1",
     "path": "/Marvel Cinematic Uneverse/Fase 1/Iron Man (2008)/Iron Man.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 1/Iron Man (2008)/Iron Man.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 1/Iron Man (2008)/Iron Man.vtt"
+      }
+    ]
   },
   {
     "title": "The Increddible Hulk",
@@ -841,7 +945,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 1",
     "path": "/Marvel Cinematic Uneverse/Fase 1/The Increddible Hulk (2008)/The Increddible Hulk.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 1/The Increddible Hulk (2008)/The Increddible Hulk.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 1/The Increddible Hulk (2008)/The Increddible Hulk.vtt"
+      }
+    ]
   },
   {
     "title": "Iron Man 2",
@@ -856,7 +965,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 1",
     "path": "/Marvel Cinematic Uneverse/Fase 1/Iron Man 2 (2010)/Iron Man 2.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 1/Iron Man 2 (2010)/Iron Man 2.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 1/Iron Man 2 (2010)/Iron Man 2.vtt"
+      }
+    ]
   },
   {
     "title": "Thor",
@@ -871,7 +985,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 1",
     "path": "/Marvel Cinematic Uneverse/Fase 1/Thor (2011)/Thor.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 1/Thor (2011)/Thor.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 1/Thor (2011)/Thor.vtt"
+      }
+    ]
   },
   {
     "title": "Captain America: The First Avenger",
@@ -886,7 +1005,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 1",
     "path": "/Marvel Cinematic Uneverse/Fase 1/Captain America - The First Avenger (2011)/Captain America - The First Avenger.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 1/Captain America - The First Avenger (2011)/Captain America - The First Avenger.srt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 1/Captain America - The First Avenger (2011)/Captain America - The First Avenger.vtt"
+      }
+    ]
   },
   {
     "title": "The Avengers",
@@ -901,7 +1025,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 1",
     "path": "/Marvel Cinematic Uneverse/Fase 1/The Avengers (2012)/The Avengers.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 1/The Avengers (2012)/The Avengers.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 1/The Avengers (2012)/The Avengers.vtt"
+      }
+    ]
   },
   {
     "title": "Iron Man 3",
@@ -916,7 +1045,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 2",
     "path": "/Marvel Cinematic Uneverse/Fase 2/Iron Man 3 (2013)/Iron Man 3.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 2/Iron Man 3 (2013)/Iron Man 3.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 2/Iron Man 3 (2013)/Iron Man 3.vtt"
+      }
+    ]
   },
   {
     "title": "Thor: The Dark World",
@@ -931,7 +1065,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 2",
     "path": "/Marvel Cinematic Uneverse/Fase 2/Thor - The Dark World (2013)/Thor - The Dark World.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 2/Thor - The Dark World (2013)/Thor - The Dark World.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 2/Thor - The Dark World (2013)/Thor - The Dark World.vtt"
+      }
+    ]
   },
   {
     "title": "Captain America: The Winter Soldier",
@@ -946,7 +1085,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 2",
     "path": "/Marvel Cinematic Uneverse/Fase 2/Captain America - The Winter Soldier (2014)/Captain America - The Winter Soldier.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 2/Captain America - The Winter Soldier (2014)/Captain America - The Winter Soldier.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 2/Captain America - The Winter Soldier (2014)/Captain America - The Winter Soldier.vtt"
+      }
+    ]
   },
   {
     "title": "Guardians of the Galaxy",
@@ -961,7 +1105,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 2",
     "path": "/Marvel Cinematic Uneverse/Fase 2/Guardians of the Galaxy (2014)/Guardians of the Galaxy.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 2/Guardians of the Galaxy (2014)/Guardians of the Galaxy.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 2/Guardians of the Galaxy (2014)/Guardians of the Galaxy.vtt"
+      }
+    ]
   },
   {
     "title": "Avengers: Age of Ultron",
@@ -990,7 +1139,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 2",
     "path": "/Marvel Cinematic Uneverse/Fase 2/Ant-Man (2015)/Ant-Man.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 2/Ant-Man (2015)/Ant-Man.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 2/Ant-Man (2015)/Ant-Man.vtt"
+      }
+    ]
   },
   {
     "title": "Captain America: Civil War",
@@ -1047,7 +1201,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 3",
     "path": "/Marvel Cinematic Uneverse/Fase 3/Spider-Man - Homecoming (2017)/Spider-Man - Homecoming.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 3/Spider-Man - Homecoming (2017)/Spider-Man - Homecoming.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 3/Spider-Man - Homecoming (2017)/Spider-Man - Homecoming.vtt"
+      }
+    ]
   },
   {
     "title": "Thor: Ragnarok",
@@ -1076,7 +1235,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 3",
     "path": "/Marvel Cinematic Uneverse/Fase 3/Black Panther (2018)/Black Panther.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 3/Black Panther (2018)/Black Panther.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 3/Black Panther (2018)/Black Panther.vtt"
+      }
+    ]
   },
   {
     "title": "Avengers: Infinity War",
@@ -1091,7 +1255,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 3",
     "path": "/Marvel Cinematic Uneverse/Fase 3/Avengers - infinity War (2018)/Avengers - infinity War.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 3/Avengers - infinity War (2018)/Avengers - infinity War.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 3/Avengers - infinity War (2018)/Avengers - infinity War.vtt"
+      }
+    ]
   },
   {
     "title": "Ant-Mant and the Wasp",
@@ -1106,7 +1275,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 3",
     "path": "/Marvel Cinematic Uneverse/Fase 3/Ant-Mant and the Wasp (2018)/Ant-Mant and the Wasp.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 3/Ant-Mant and the Wasp (2018)/Ant-Mant and the Wasp.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 3/Ant-Mant and the Wasp (2018)/Ant-Mant and the Wasp.vtt"
+      }
+    ]
   },
   {
     "title": "Captain Marvel",
@@ -1121,7 +1295,12 @@
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 3",
     "path": "/Marvel Cinematic Uneverse/Fase 3/Captain Marvel (2019)/Captain Marvel.mkv",
-    "subtitle": "/Marvel Cinematic Uneverse/Fase 3/Captain Marvel (2019)/Captain Marvel.vtt"
+    "subtitle": [
+      {
+        "label": "default",
+        "path": "/Marvel Cinematic Uneverse/Fase 3/Captain Marvel (2019)/Captain Marvel.vtt"
+      }
+    ]
   },
   {
     "title": "Avengers: Endgame",
@@ -1135,7 +1314,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 3",
-    "path": "/Marvel Cinematic Uneverse/Fase 3/Avengers - Endgame (2019)/Avengers - Endgame.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 3/Avengers - Endgame (2019)/Avengers - Endgame.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Spider-Man: Far from Home",
@@ -1149,7 +1329,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 3",
-    "path": "/Marvel Cinematic Uneverse/Fase 3/Spider-man - Far From Home (2019)/Spider-man - Far From Home.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 3/Spider-man - Far From Home (2019)/Spider-man - Far From Home.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Black Widow",
@@ -1163,7 +1344,7 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 4",
-    "path": ""
+    "path": "/Marvel Cinematic Uneverse/Fase 4/Black Widow (2021)/Black Widow.mp4"
   },
   {
     "title": "Shang-Chi and the Legend of the Ten Rings",
@@ -1177,7 +1358,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 4",
-    "path": "/Marvel Cinematic Uneverse/Fase 4/Black Widow (2021)/Black Widow.mp4"
+    "path": "/Marvel Cinematic Uneverse/Fase 4/Shang-Chi and the Legend of the Ten Rings (2021)/Shang-Chi and the Legend of the Ten Rings.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Eternals",
@@ -1191,7 +1373,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 4",
-    "path": "/Marvel Cinematic Uneverse/Fase 4/Eternals (2021)/Eternals.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 4/Eternals (2021)/Eternals.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Spider-Man: No Way Home",
@@ -1205,7 +1388,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 4",
-    "path": "/Marvel Cinematic Uneverse/Fase 4/Spider-Man - No Way Home (2021)/[Movieku.cc] S-man NWHome (2021) 720p Bluray.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 4/Spider-Man - No Way Home (2021)/[Movieku.cc] S-man NWHome (2021) 720p Bluray.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Doctor Strange in the Multiverse of Madness",
@@ -1219,7 +1403,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 4",
-    "path": "/Marvel Cinematic Uneverse/Fase 4/Doctor Strange in the Multivese of Madness (2022)/Doctor Strange in the Multivese of Madness.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 4/Doctor Strange in the Multivese of Madness (2022)/Doctor Strange in the Multivese of Madness.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Thor: Love and Thunder",
@@ -1233,7 +1418,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 4",
-    "path": "/Marvel Cinematic Uneverse/Fase 4/Thor - Love and Thunder (2022)/Thor - Love and Thunder.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 4/Thor - Love and Thunder (2022)/Thor - Love and Thunder.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Black Panther: Wakanda Forever",
@@ -1247,7 +1433,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 4",
-    "path": "/Marvel Cinematic Uneverse/Fase 4/Black Panther - Wakanda Forever (2022)/Black Panther - Wakanda Forever.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 4/Black Panther - Wakanda Forever (2022)/Black Panther - Wakanda Forever.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "WandaVision",
@@ -1264,38 +1451,47 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 5.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 6.mkv"
       },
       {
         "name": "7",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 7.mkv"
       },
       {
         "name": "8",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 8.mkv"
       },
       {
         "name": "9",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/WandaVision (2021)/WandaVision Eps 9.mkv"
       }
     ]
@@ -1315,26 +1511,32 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/The Falcon and the Winter Soldier (2021)/The Falcon and the Winter Soldier Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/The Falcon and the Winter Soldier (2021)/The Falcon and the Winter Soldier Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/The Falcon and the Winter Soldier (2021)/The Falcon and the Winter Soldier Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/The Falcon and the Winter Soldier (2021)/The Falcon and the Winter Soldier Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/The Falcon and the Winter Soldier (2021)/The Falcon and the Winter Soldier Eps 5.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/The Falcon and the Winter Soldier (2021)/The Falcon and the Winter Soldier Eps 6.mkv"
       }
     ]
@@ -1354,26 +1556,32 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Loki (2021)/Loki Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Loki (2021)/Loki Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Loki (2021)/Loki Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Loki (2021)/Loki Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Loki (2021)/Loki Eps 5.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Loki (2021)/Loki Eps 6.mkv"
       }
     ]
@@ -1393,38 +1601,47 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 5.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 6.mkv"
       },
       {
         "name": "7",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 7.mkv"
       },
       {
         "name": "8",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 8.mkv"
       },
       {
         "name": "9",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/What If... (2021)/What If... Eps 9.mkv"
       }
     ]
@@ -1444,26 +1661,32 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Hawkeye (2021)/Hawkeye Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Hawkeye (2021)/Hawkeye Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Hawkeye (2021)/Hawkeye Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Hawkeye (2021)/Hawkeye Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Hawkeye (2021)/Hawkeye Eps 5.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Hawkeye (2021)/Hawkeye Eps 6.mkv"
       }
     ]
@@ -1483,26 +1706,32 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Moon Knight (2022)/Moon Knight Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Moon Knight (2022)/Moon Knight Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Moon Knight (2022)/Moon Knight Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Moon Knight (2022)/Moon Knight Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Moon Knight (2022)/Moon Knight Eps 5.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Moon Knight (2022)/Moon Knight Eps 6.mkv"
       }
     ]
@@ -1522,26 +1751,32 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Ms. Marvel (2022)/Ms. Marvel Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Ms. Marvel (2022)/Ms. Marvel Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Ms. Marvel (2022)/Ms. Marvel Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Ms. Marvel (2022)/Ms. Marvel Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Ms. Marvel (2022)/Ms. Marvel Eps 5.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/Ms. Marvel (2022)/Ms. Marvel Eps 6.mkv"
       }
     ]
@@ -1561,14 +1796,17 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 01.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 02.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 03.mkv"
       },
       {
@@ -1577,22 +1815,27 @@
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 05.mkv"
       },
       {
         "name": "6",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 06.mkv"
       },
       {
         "name": "7",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 07.mkv"
       },
       {
         "name": "8",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 08.mkv"
       },
       {
         "name": "9",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/She-Hulk (2022)/She-Hulk Eps 09.mkv"
       }
     ]
@@ -1612,22 +1855,27 @@
     "path": [
       {
         "name": "1",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/I Am Groot/I Am Groot Eps 1.mkv"
       },
       {
         "name": "2",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/I Am Groot/I Am Groot Eps 2.mkv"
       },
       {
         "name": "3",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/I Am Groot/I Am Groot Eps 3.mkv"
       },
       {
         "name": "4",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/I Am Groot/I Am Groot Eps 4.mkv"
       },
       {
         "name": "5",
+        "subtitle": [{ "label": "default", "path": "" }],
         "path": "/Marvel Cinematic Uneverse/Fase 4/I Am Groot/I Am Groot Eps 5.mkv"
       }
     ]
@@ -1644,7 +1892,8 @@
     "type": "movie",
     "group": "Marvel Cinematic Uneverse",
     "class": "Fase 5",
-    "path": "/Marvel Cinematic Uneverse/Fase 5/Ant-Man and the Wasp - Quantumania.mkv"
+    "path": "/Marvel Cinematic Uneverse/Fase 5/Ant-Man and the Wasp - Quantumania.mkv",
+    "subtitle": [{ "label": "default", "path": "" }]
   },
   {
     "title": "Guardians of the Galaxy Vol. 3",

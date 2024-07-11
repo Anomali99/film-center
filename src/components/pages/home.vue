@@ -1,7 +1,6 @@
 <script setup>
 import { ref, onMounted } from "vue";
-import navbar from "../assets/navbar.vue";
-import poster from "../assets/poster.vue";
+import { Navbar, Poster } from "../assets";
 import { data } from "../../assets/data";
 
 const theData = ref([]);
@@ -27,7 +26,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <navbar />
+  <Navbar />
   <div
     class="w-full h-screen bg-gray-600 overflow-y-auto custom-scrollbar pt-20 px-36"
   >
@@ -40,7 +39,7 @@ onMounted(async () => {
       class="flex w-full flex-row gap-4 pb-8"
     >
       <div v-for="(value, index) in item" :key="index" class="w-full">
-        <poster
+        <Poster
           v-if="value != null"
           :title="value.title"
           :img="`/img/${value.poster}`"

@@ -24,7 +24,6 @@ router.beforeEach(async (to, from, next) => {
         next();
       } catch (error) {
         console.error("Failed to fetch search data:", error);
-        next(false); // or handle the error appropriately
       }
     } else {
       next(from);
@@ -39,16 +38,16 @@ router.beforeEach(async (to, from, next) => {
       next();
     } catch (error) {
       console.error("Failed to fetch category data:", error);
-      next(false); // or handle the error appropriately
     }
   } else if (to.name === "Content") {
     const key = to.params.slug;
     try {
       to.meta.data = await getContent(key);
-      next();
+      if (to.meta.data) {
+        next();
+      }
     } catch (error) {
       console.error("Failed to fetch content data:", error);
-      next(false); // or handle the error appropriately
     }
   } else {
     next();

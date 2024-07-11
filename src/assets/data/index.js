@@ -69,16 +69,38 @@ async function getByCategory(category, key) {
 
 function getSlug(title) {
   let value = title.replace(/[:.?!]/g, "").replace(/\s+/g, "-");
-  return `/${value.toLowerCase()}`;
+  return value.toLowerCase();
 }
 
 async function getContent(slug) {
   const value = await data();
   let content = value.filter((item) => slug === getSlug(item.title))[0];
-  let other = value.filter(
-    (item) => content.group === item.group && item.title !== content.title
-  );
-  return { content, other };
+  console.log(content);
+  if (content) {
+    let other = value.filter(
+      (item) => content.group === item.group && item.title !== content.title
+    );
+
+    if (content.class == "") {
+      return { content, other: [{ label: content.group, data: other }] };
+    } else {
+      const groupedOther = other.reduce((acc, item) => {
+        if (!acc[item.class]) {
+          acc[item.class] = [];
+        }
+        acc[item.class].push(item);
+        return acc;
+      }, {});
+      const result = Object.keys(groupedOther).map((key) => ({
+        label: key,
+        data: groupedOther[key],
+      }));
+      console.log(result);
+      return { content, other: result };
+    }
+  } else {
+    return null;
+  }
 }
 
 export {

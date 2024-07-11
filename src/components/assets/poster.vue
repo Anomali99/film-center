@@ -4,7 +4,7 @@ const props = defineProps(["title", "img", "type"]);
 const title = props.title;
 const img_uri = props.img;
 const type = props.type;
-const href = getSlug(title);
+const href = `/${getSlug(title)}`;
 </script>
 
 <template>
